@@ -25,15 +25,15 @@
 				<h1>손해 없이 수리하고<br>1년 보증까지</h1>
 			</div>
 			<div>
-				<img src="<?php echo BG_THEME_URL?>/img/ex_img.png" alt="예시 이미지 " width="50%">
+				<img src="<?php echo BG_THEME_URL?>/img/repair.png" alt="예시 이미지 " width="60%">
 			</div>
 			<div>
 				<button><img src="<?php echo BG_THEME_URL?>/img/google_logo001.png" alt="" width="20px"> Google로 계속하기</button>
-				<button>
-					<a href="https://binggo.funnelmoa.com/?action=cosmosfarm_members_social_login&amp;channel=kakao&amp;redirect_to=%2F" title="kakao">
+				<a href="https://binggo.funnelmoa.com/?action=cosmosfarm_members_social_login&amp;channel=kakao&amp;redirect_to=%2F" title="kakao">
+					<button>
 						<img src="<?php echo BG_THEME_URL?>/img/kakao_logo001.png" alt="kakao"> Kakao로 계속하기
-					</a>
-				</button>
+					</button>
+				</a>
 				<button><img src="<?php echo BG_THEME_URL?>/img/naver_logo001.png" alt="" width="20px"> Naver로 계속하기</button>
 			</div>
 		</div>
