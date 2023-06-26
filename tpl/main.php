@@ -22,7 +22,7 @@
 	<div class="div_002">
 		<div class="index_div_001">
 			<div>
-				<h1>손해 없이 수리하고<br>1년 보증까지</h1>
+				<h1>손해 없이 수리하고<br>1년 보증까지</h1> 
 			</div>
 			<div>
 				<img src="<?php echo BG_THEME_URL?>/img/repair.png" alt="예시 이미지 " width="60%">
